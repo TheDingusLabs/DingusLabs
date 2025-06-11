@@ -1,0 +1,26 @@
+behaviors:
+  Freddingus:
+    trainer_type: ppo
+    threaded: true
+    hyperparameters:
+      batch_size: 512
+      buffer_size: 8192
+      learning_rate: 0.00015
+      beta: 0.0151
+      epsilon: 0.2
+      lambd: 0.95
+      num_epoch: 3
+      learning_rate_schedule: constant
+    network_settings:
+      normalize: false
+      hidden_units: 512
+      num_layers: 3
+      vis_encode_type: simple
+    reward_signals:
+      extrinsic:
+        gamma: 0.99
+        strength: 1.0
+    keep_checkpoints: 5
+    max_steps: 92000000
+    time_horizon: 8192
+    summary_freq: 500000

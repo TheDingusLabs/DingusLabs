@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - 1v1 training area.unity
+    guid: b3bda41bb51464a448e2a4007ed94e5d
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - 10Player 2 field.unity
+    guid: d77c7e14d9cb3fd4fad4925ce755ef4a
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - allVsBuzzSaw.unity
+    guid: a19e924032950c34ca21ee76fe81191c
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - 2v2.unity
+    guid: 4d0183e94d30af5478f0fbbe1a378bf6
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - Team Learning.unity
+    guid: 9eee21360514673419ffc36767a8bb22
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - vs Buzzsaw Team Training.unity
+    guid: e0af1375d68269c4ba4fc25520501957
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - vs Buzzsaw Training.unity
+    guid: a8cd654851aa6ea49be25381a99e241c
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/old/BattleBotDingusScene
+      - vs Dummy Training.unity
+    guid: 1ea3bbd00bad43b48afddd1d19d88c0d
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/v1/BattleBotDingusScene
+      - vs Dummy Training circle.unity
+    guid: 46402a7aae3875341ba1a2e38b011cde
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/v1/BattleBotDingusScene
+      - vs Buzzsaw Training circle.unity
+    guid: 405a7689e597c5744b9ea9c3349bbea3
+  - enabled: 0
+    path: Assets/DingusLabsProjects/SisyphusDingusTeam/Scenes/TeamBoulderPush.unity
+    guid: b368122dc7d67b84c9f0e38a6e5f96e8
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/v1/BattleBotDingusScene
+      - vs Buzzsaw With baseModelInstalled.unity
+    guid: 8dcc728c8ba13904c84266b1ee588ada
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/v1/BattleBotDingusScene
+      - Initial buzzsaw training with sniper.unity
+    guid: 3267f7171954588468784ca24167a6d0
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/v1/BattleBotDingusScene
+      - vs All Teams.unity
+    guid: 72ac20c080743b64c8062d19b723f740
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v2 - initial training.unity
+    guid: 0f61e81aea2f4604e8d7cbbb6676f61e
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v2 - initial team
+      training.unity
+    guid: e3e3d44d9299e5f4ab1085643f927365
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v2 - proper team
+      training.unity
+    guid: 2e8e2d51c17d171408c4d6f2461c4d49
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v2 - initial training
+      shover.unity
+    guid: 9ad833b78fc250c47aa6ce403c19bafa
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v2 - initial training
+      shover team reduced.unity
+    guid: 6356d0af26e2eb74aaa56e31400b56fb
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v2 - initial training
+      shover team.unity
+    guid: da66dd1c6698abe4d80798d7520ec9a1
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v3 - team training.unity
+    guid: 36491cbc1305d4447a64fd29b579a1b1
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v3 - tournament.unity
+    guid: 694068300e1f5204bbb2edcfb1bdf5ee
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v3 - F4A training.unity
+    guid: bd63b5525556be64e9e9adfe02e1b16f
+  - enabled: 0
+    path: Assets/DingusLabsProjects/TiltBallDingus/TiltBallScene.unity
+    guid: f35f7378eaff5b04a983772da77e12a6
+  - enabled: 1
+    path: Assets/DingusLabsProjects/Escape room/EscapeScene.unity
+    guid: 6886475dedaf031439adad0f35e7be7c
+  - enabled: 0
+    path: Assets/DingusLabsProjects/BattleBotDingus/Scenes/BBD - v3 - tournament
+      f4a.unity
+    guid: a7c13ec76b706384383932e85c11e1a2
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 404363fe65fbeab4391a5d51b11485e8,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
